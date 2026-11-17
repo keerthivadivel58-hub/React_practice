@@ -17,7 +17,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Student Management   System</h1>
+      <h1>Student Management</h1>
       <p>Welcome to our React Sample Project</p>
 
       <div className="form">
